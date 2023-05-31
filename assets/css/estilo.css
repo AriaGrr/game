@@ -1,0 +1,210 @@
+/* cores
+FBFAFA
+A5A9B5
+DF3C57
+97869F
+242335
+http://colormind.io/bootstrap/*/
+
+@font-face {
+    font-family: "Cocogoose";
+    src: url(../_fonts/COCOGOOSE-DemiBold.woff)
+}
+
+html,
+body {
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #242335 !important;
+    background-attachment: fixed;
+}
+
+nav.navbar-custom {
+    padding: 30px 0px;
+    background: #fff;
+
+}
+
+.icon-resumo {
+  margin-top: 35px
+}
+
+.custom-footer {
+    padding: 45px 0 25px 25px;
+    background-color: #12111A;
+    color: #FBFAFA;
+}
+
+.custom-footer h4 {
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+
+.custom-footer a {
+    font-family: "Montserrat", sans-serif;
+    color: #DF3C57;
+}
+
+.custom-footer p {
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 8px;
+}
+
+.custom-footer a:hover {
+    color: #E63E5A;
+    text-decoration: none;
+}
+
+.social-icons {
+    margin-right: 25px;
+    color: #FBFAFA;
+}
+
+.social-icons:hover {
+    color: #DF3C57;
+}
+
+.card1,
+.card2,
+.card3 {
+    margin-top: 50px;
+
+}
+
+.aba {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.aba2 {
+    width: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.navbar-nav .nav-link {
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.balao {
+    padding: 55px 75px;
+    background-color: #12111A;
+    border-radius: 8px;
+    color: #FBFAFA;
+}
+
+.format-balao h2 {
+    letter-spacing: -2px;
+    font-size: 43px;
+    font-weight: 900;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 35px;
+}
+
+.format-balao p {
+    font-family: "Montserrat", sans-serif;
+    margin-top: -16px;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+.format-balao a {
+    font-family: "Montserrat", sans-serif;
+    color: #DF3C57;
+    position: relative;
+    top: -15px;
+}
+
+.format-balao>a:hover {
+    color: #E63E5A;
+    text-decoration: none;
+}
+
+.circle {
+    background-image: url(../_img/foto2.jpeg);
+    background-position: center;
+    background-size: 150%;
+    border-radius: 100%;
+    width: 230px;
+    height: 230px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    margin: 0 -5%;
+}
+
+.info {
+    text-align: center;
+    color: #FBFAFA;
+}
+
+.bg-card {
+    background-color: #12111A !important;
+}
+
+.info h2 {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    letter-spacing: -2px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+}
+
+.info p {
+    margin: 0 auto;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.card-icon {
+  color: #FBFAFA;
+  margin: 30px auto 0 auto;
+}
+
+.bg-2>.container-fluid {
+    padding-left: 0;
+    padding-right: 1;
+}
+
+.conhecimentos {}
+
+#part-1 {
+    margin-top: 150px;
+}
+
+#projetos {
+    color: white;
+    margin-top: 5%;
+}
+
+#projetos h1 {
+    letter-spacing: -2px;
+    padding-bottom: 25px;
+    font-size: 300%;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+#projetos p {
+    font-size: 120%;
+    font-family: "Montserrat", sans-serif;
+}
+
+#gradient2 {
+    width: 100%;
+    margin-top: 100px;
+    height: 100%;
+    background: #DF3C57;
+}
